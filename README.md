@@ -1,0 +1,1 @@
+This resume uses [mengisok](https://github.com/mengisok/Resume-CV)'s template
